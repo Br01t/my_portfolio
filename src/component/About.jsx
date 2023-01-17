@@ -14,6 +14,10 @@ function About() {
       </p>
       <p>And here I am ready for new opportunities and challenges!</p>
       <p>
+        In my spare time i like to be active, especially climbing and doing
+        other outdoor sports
+      </p>
+      <p>
         Click{" "}
         <a href="https://br01t.github.io/cv/" target="_blank">
           here
